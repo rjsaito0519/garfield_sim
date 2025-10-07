@@ -9,7 +9,7 @@ tar zxvf gsl-2.8.tar.gz
 
 ```
 cd gsl-2.8/
-./configure --prefix=$HOME/gsl
+./configure --prefix=$HOME/local/gsl
 make
 make install
 ```
